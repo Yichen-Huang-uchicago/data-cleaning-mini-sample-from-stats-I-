@@ -1,0 +1,17 @@
+variable,dtype,missing_pct,example_value
+hhid,int64,0.0,101615
+cid,int64,0.0,1152
+vid,int64,0.0,101
+uid,int64,0.0,1
+does_hh_own,Int64,0.0,0
+does_hh_has_access,Int64,0.0,0
+hh_head_age,float64,0.17,18.0
+hh_head_educ_years,float64,0.44,2.0
+hh_has_electricity,float64,54.84,1.0
+hh_any_od,Int64,0.0,1
+baseline_access,float64,0.0,0.68181819
+baseline_ownership,float64,0.0,0.5
+treat_cat,category,0.0,LPP Only
+any_treatment,Int64,0.0,1
+hh_head_age_flag_outlier,Int64,0.0,0
+hh_head_educ_years_flag_outlier,Int64,0.0,0

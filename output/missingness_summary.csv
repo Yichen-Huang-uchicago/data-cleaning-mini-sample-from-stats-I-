@@ -1,0 +1,17 @@
+,missing_pct,missing_n
+hh_has_electricity,54.84,7180
+hh_head_educ_years,0.44,57
+hh_head_age,0.17,22
+hhid,0.0,0
+cid,0.0,0
+vid,0.0,0
+uid,0.0,0
+does_hh_own,0.0,0
+does_hh_has_access,0.0,0
+hh_any_od,0.0,0
+baseline_access,0.0,0
+baseline_ownership,0.0,0
+treat_cat,0.0,0
+any_treatment,0.0,0
+hh_head_age_flag_outlier,0.0,0
+hh_head_educ_years_flag_outlier,0.0,0
